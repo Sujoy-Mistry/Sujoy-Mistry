@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujoy-mistry" alt="sujoy-mistry" /></a> </p>
 
-- 📫 How to reach me **sujoymistry2@gmail.com**
+- 📫 reach me **sujoymistry2@gmail.com**
 
-- ⚡ Fun fact **⚡ Fun fact I think I am funny XD**
+- ⚡ Fun fact I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
